@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/reyespaolo/TK-103-Parser.git"
+        "url": "git+https://github.com/sukharenko/tk110-parser"
     },
     "keywords": [
         "tk110",
@@ -18,5 +18,9 @@
         "parser"
     ],
     "author": "Yevgen Sukharenko <ysukharenko@gmail.com> (https://sukharenko.com)",
-    "license": "MIT"
+    "license": "MIT",
+    "homepage": "https://github.com/sukharenko/tk110-parser",
+    "bugs": {
+        "url": "https://github.com/sukharenko/tk110-parser/issues"
+    }
 }
