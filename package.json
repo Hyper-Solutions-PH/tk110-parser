@@ -1,0 +1,22 @@
+{
+    "name": "tk110-parser",
+    "version": "1.0.0",
+    "description": "TK-110 (China Noname) GPS Tracker Data Parser",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ./test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/reyespaolo/TK-103-Parser.git"
+    },
+    "keywords": [
+        "tk110",
+        "tk-110",
+        "gps",
+        "tracker",
+        "parser"
+    ],
+    "author": "Yevgen Sukharenko <ysukharenko@gmail.com> (https://sukharenko.com)",
+    "license": "MIT"
+}
