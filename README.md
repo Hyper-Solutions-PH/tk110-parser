@@ -37,16 +37,21 @@ console.log('* Result: ', result);
 ##### Your result should look like this:
 
 ```json
-{ status: true,
-  trackerId: '008238008589',
-  lat: 23.045886666666668,
-  long: 72.537435,
-  speed: 0,
-  date: '2014-11-29',
-  time: '09:21:42',
-  direction: 349.38,
-  mileage: 0,
-  flags: { power: 1, ignition: 0 } }
+{
+	"status": true,
+	"trackerId": "008238008589",
+	"lat": 23.045886666666668,
+	"long": 72.537435,
+	"speed": 0,
+	"date": "2014-11-29",
+	"time": "09:21:42",
+	"direction": 349.38,
+	"mileage": 0,
+	"flags": {
+  		"power": 1,
+	  	"ignition": 0
+  }
+}
 ```
 
 #### Please note:
